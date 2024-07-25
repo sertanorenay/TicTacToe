@@ -1,1 +1,1 @@
-Game is accessible [here.](https://sertanorenay.github.io/TicTacToe>)
+Game is accessible [here.](https://sertanorenay.github.io/TicTacToe)
