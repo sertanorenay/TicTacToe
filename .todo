@@ -1,0 +1,7 @@
+impossible to beat mode instructions:
+
+if current move is ai's move and user has x2 series, block it
+if current move is ai's 1st move and user marked any corners, mark center. 
+    then if farthest corner marked by user, ai should mark a non-corner
+
+scoreboard: if mode changes, reset
