@@ -1,7 +1,5 @@
 import "./App.css";
 import React, { useState, useEffect } from 'react';
-import { StrictMode } from "react";
-import { createRoot } from "react-dom/client";
 
 function TicTacToe() {
   const [gameMode, setGameMode] = useState(null);
