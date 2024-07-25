@@ -1,1 +1,1 @@
-Run with `npm install` and `npm start` commands.
+Game is accessible [here.](https://sertanorenay.github.io/TicTacToe>)
