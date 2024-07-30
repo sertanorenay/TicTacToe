@@ -52,6 +52,10 @@
   background-color: purple;
 }
 
+.winning-square:hover {
+  background-color: purple;
+}
+
 .square:hover {
   background-color: #ddd;
 }
