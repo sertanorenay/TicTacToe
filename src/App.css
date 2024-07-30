@@ -52,14 +52,6 @@
   background-color: purple;
 }
 
-.winning-square:hover {
-  background-color: purple;
-}
-
-.square:hover {
-  background-color: #ddd;
-}
-
 .status {
   text-align: center;
   margin: 20px;
